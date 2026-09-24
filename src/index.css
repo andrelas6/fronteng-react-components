@@ -1,7 +1,9 @@
 :root {
   font-family: system-ui, -apple-system, sans-serif;
   line-height: 1.5;
-  color-scheme: light dark;
+  color-scheme: light;
+  color: #1f2328;
+  background: #ffffff;
 }
 
 * {

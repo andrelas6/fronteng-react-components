@@ -14,7 +14,8 @@
   "dependencies": {
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
-    "react-router": "^8.4.0"
+    "react-router": "^8.4.0",
+    "styled-components": "^6.5.3"
   },
   "devDependencies": {
     "@swc/core": "^1.16.2",
